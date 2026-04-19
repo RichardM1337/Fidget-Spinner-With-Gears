@@ -1,8 +1,8 @@
-# Tower-Toy
-When I was younger I used to play this game on roblox called Theme Park Tycoon 2. I created this 3D Model as a visual resemblance to the 'Tower' Ride from that game.
+# Fidget Spinner
+WHen I was younger, I played with many fidget spinners. I never had the access to ball bearings to build my own. I created this one as a simple fidget toy with gears, no other assembly required.
 
 # 3D Model
-![Image of Model](https://github.com/RichardM1337/Tower-Toy/blob/main/Marble%20Tower%20Toy/Assembly%20Pics/Copy%20of%20Marble%20Tower.png)
+[Image of Model](https://github.com/RichardM1337/Fidget-Spinner-With-Gears/blob/main/Fidget%20Spinner/Assembly/Copy%20of%20Screenshot%202026-04-17%20082808.png)
 
 # BOM
 all 3d printed parts, no extra material necessary
